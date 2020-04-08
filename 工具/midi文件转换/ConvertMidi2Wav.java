@@ -4,6 +4,11 @@ import javax.sound.sampled.*;
 import java.io.*;
 import java.util.Vector;
 
+/** 
+ * midi files convert
+ * @author UncleDong(1758322248@qq.com)
+ */ 
+
 public class ConvertMidi2Wav {
 	
 	private AudioInputStream audioStream; 
